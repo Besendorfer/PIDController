@@ -1,0 +1,23 @@
+{
+  "name": "pid-controller",
+  "version": "0.0.0-1",
+  "description": "PID Controller, originally used with a Sphero",
+  "main": "PID.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Besendorfer/PIDController.git"
+  },
+  "keywords": [
+    "PID",
+    "Controller",
+    "Sphero"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Besendorfer/PIDController/issues"
+  },
+  "homepage": "https://github.com/Besendorfer/PIDController#readme"
+}
